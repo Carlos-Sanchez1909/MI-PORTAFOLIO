@@ -1,0 +1,1 @@
+"use strict";(self.legacyJsonp=self.legacyJsonp||[]).push([[10736],{457091(n,i,_){var s=(0,_(551042).A)("/pin/:id/analytics");"u">typeof window&&(window.__PWS_LOADED_HANDLERS__=window.__PWS_LOADED_HANDLERS__||[]).push(["www/pin/[id]/analytics",function(){return s}])}},function(n){n.O(0,[26758,73702,91796],function(){return n(n.s=457091)}),n.O()}]);

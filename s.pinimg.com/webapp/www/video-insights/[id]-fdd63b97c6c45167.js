@@ -1,0 +1,1 @@
+"use strict";(self.legacyJsonp=self.legacyJsonp||[]).push([[71365],{331902(i,n,s){s(743147);var _=(0,s(551042).A)("/video-insights/:id");"u">typeof window&&(window.__PWS_LOADED_HANDLERS__=window.__PWS_LOADED_HANDLERS__||[]).push(["www/video-insights/[id]",function(){return _}])}},function(i){i.O(0,[26758,73702,91796],function(){return i(i.s=331902)}),i.O()}]);

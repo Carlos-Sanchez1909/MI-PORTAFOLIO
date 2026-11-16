@@ -1,0 +1,7 @@
+# Netscape HTTP Cookie File
+# Written by HTTrack Website Copier
+www.pinterest.com	FALSE	/	TRUE	1825777150	csrftoken	03ec58ba25340fed559956af1486eaee
+#HttpOnly_.pinterest.com	TRUE	/	TRUE	1825345150	_pinterest_sess	TWc9PSZBMm5yczlYMDVWaFg1ZHhiMnhxQnpVbzRXbW5mTHVuWU5ncXd6LzRiNk1OU2lORmFxQ3JJbGRXK0tob2VsYXYrWFNxTDRmUDc1RW8xZndtV2N3NkhzYjhQN29zU1dnTzhZcldjWW0yT2hYZz0mRGxVWVVsa3RibExnRkxOVnRhNHJLSHdRdkpnPQ==
+#HttpOnly_.pinterest.com	TRUE	/	TRUE	1825345150	_auth	0
+#HttpOnly_www.pinterest.com	FALSE	/	FALSE	1794499612	_routing_id	"9036502d-f43b-4145-a92d-350c85fff676"
+#HttpOnly_.pinterest.com	TRUE	/	TRUE	1794586012	tst	Af0NtqmlNjKb7E4AMVqGPuKwRlqV5iHsCc2313ieVk3sm0oQkeA-VCT8ZKyUVsg8PPm0W9HprhsPVFX326fSFw8BLfElKWIuxm6qInmx3kksvc-MX6STZ7wZgRHmsVdrHQXo3oDzgQiov1lkHXKEJqp0N3y-I-AjXU734Q

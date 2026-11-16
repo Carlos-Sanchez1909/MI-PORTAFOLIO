@@ -1,0 +1,1 @@
+"use strict";(self.legacyJsonp=self.legacyJsonp||[]).push([[51568],{282352(n,e,_){var o=_(588786).A;"u">typeof window&&(window.__PWS_LOADED_HANDLERS__=window.__PWS_LOADED_HANDLERS__||[]).push(["www/age-appeal/redirect",function(){return o}])}},function(n){n.O(0,[12310,13068,33039,73702,75312,78180,91796],function(){return n(n.s=282352)}),n.O()}]);
